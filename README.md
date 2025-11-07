@@ -1,2 +1,2 @@
-# Tem_fa07-1st-cerberus
+# fa07-1st-cerberus
 7기 1차 1조 케로베로스, 팀장 : 양지후, 팀원 : 이혁준, 은택
